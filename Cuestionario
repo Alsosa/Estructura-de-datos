@@ -1,0 +1,23 @@
+Cuestionario.
+
+1. ¿Que es una función? Cite un ejemplo
+Una función es un conjunto de líneas de código que realizan una tarea específica y puede retornar un valor.
+Las funciones pueden tomar parámetros que modifiquen su funcionamiento.
+
+2. ¿Que es una variable?
+Una variable representa a un espacio de memoria en el cual se puede almacenar un dato.
+
+3. ¿Que es una variable local?
+La variable a la que se le otorga un ámbito local. Tales variables sólo pueden accederse desde la función o bloque 
+de instrucciones en donde se declaran.
+
+4. ¿Que es una variable global?
+Variable accesible en todos los ámbitos de un programa informático.
+Los mecanismos de interacción con variables globales se denominan mecanismos de entorno global.
+
+5. ¿Que es una función recursiva?
+Las funciones recursivas son aquellas que se invocan a si mismas en algún momento de su ejecución.
+La recursión permite programar algoritmos aparentemente complicados con un código simple y claro.
+
+6. Definición de Array. Cite un ejemplo.
+Es un grupo de variables llamadas elementos o componentes que contienen variables las cuales son de un mismo tipo.
